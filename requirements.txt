@@ -1,0 +1,13 @@
+# tkinter, sys, os, re, time – moduły wbudowane w CPython, jakby potrzebowal to tez trzeba odkomentowac
+
+# ------------------------------
+# Biblioteki zewnętrzne
+# ------------------------------
+openpyxl
+selenium
+undetected-chromedriver
+pygame
+
+# (opcjonalnie) – jeżeli chcesz ograniczyć wersje przeglądarki Chrome
+# (zależnie od tego, którą wersję masz zainstalowaną)
+# webdriver‑manager==4.0.2  # – pomocny przy automatycznym pobieraniu odpowiedniego chromedrivera
